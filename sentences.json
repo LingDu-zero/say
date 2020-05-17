@@ -1,67 +1,60 @@
 [
   {
-    "content":"Hello, World!",
-    "author":"Brian Kernighan",
-    "from":"The C Programming Language",
-    "tags":["computer"]
+    "content":"也许有天你会远走，去拥有自己的生活；而我也最爱，自由自在的我。",
+    "author":"房东的猫",
+    "from":"月亮拥抱我"
   },
   {
-    "content":"错的不是我，是世界。",
-    "author":"鲁路修·兰佩路基",
-    "from":"Code Geass 反叛的鲁路修",
-    "tags":["animation"]
+    "content":"等我完成推广，这玩意儿一定能卖脱销！",
+    "author":"哎哟·喂博士",
+    "from":"路易吉洋楼3"
   },
   {
-    "content":"我们一日日度过的所谓日常，实际上可能是接连不断的奇迹。",
-    "from":"日常",
-    "tags":["animation","comic"]
+    "content":"像这样，反复邂逅和别离，人就一点点长大了啊！",
+    "author":"海德",
+    "from":"集合啦！动物森友会"
   },
   {
-    "content":"是啊，我所爱的，即非群星，也非银河。",
-    "author":"云游君",
-    "from":"yunyoujun.cn",
-    "tags":["custom"]
+    "content":"只有当握剑的双手充满勇气时，你的挥舞才会更有力量。",
+    "author":"勇者之灵",
+    "from":"塞尔达传说 黄昏公主"
   },
   {
-    "content":"隐约雷鸣 阴霾天空 但盼风雨来 能留你在此",
-    "from":"万叶集·雷神短歌",
-    "tags":["poetry"]
+    "content":"没有贷款，又住着这么气派的房子，你的生活可以说是一生无忧狸！",
+    "author":"狸克",
+    "from":"集合啦！动物森友会"
   },
   {
-    "content":"人类的悲欢并不相通，我只觉得他们吵闹。",
-    "author":"鲁迅",
-    "from":"小杂感"
+    "content":"这样的话，我跟你约会！1次。",
+    "author":"爱丽丝",
+    "from":"最终幻想7 重制版"
   },
   {
-    "content":"遍身罗绮者，不是养蚕人。",
-    "author":"张俞",
-    "from":"蚕妇",
-    "tags":["poetry"]
+    "content":"人类即使不需要变种，也能失去人性。这种例子我看太多了。",
+    "from":"巫师 3：狂猎"
   },
   {
-    "content":"今日は……风が騒がしいな…（今日的风儿甚是喧嚣……）",
-    "author":"田畑秀则",
-    "from":"男子高中生的日常",
-    "tags":["animation","comic"]
+    "content":"不过无论发生多么残酷的战斗，当你受伤的时候，我都会为你疗伤的...无论多少次、多么严重的伤。因为，我想保护你。",
+    "author":"米法",
+    "from":"塞尔达传说：荒野之息"
   },
   {
-    "content":"人类的赞歌是勇气的赞歌！人类的伟大是勇气的伟大！！",
-    "author":"威廉·A·齐贝林",
-    "from":"JOJO 的奇妙冒险 幻影之血",
-    "tags":["animation","comic"]
+    "content":"我们在座的每个人都有一个非常重要的相同点，就是我们都拥有同样的“玩者之心”。",
+    "author":"岩田聪（1956.12.6——2015.7.11）"
   },
   {
-    "content":"人生就像蒲公英，看似自由，实则身不由己。",
-    "tags":["philosophy"]
+    "content":"如果看不清未来，就继续做你当下觉得正确的事情。",
+    "author":"Anna",
+    "from":"冰雪奇缘2"
   },
   {
-    "content":"Never compromise.",
-    "author":"罗夏",
-    "from":"守望者",
-    "tags":["comic","film"]
+    "content":"灭绝不代表终结，灭绝是一次机遇。",
+    "author":"亚美莉",
+    "from":"死亡搁浅"
   },
   {
-    "content":"大师，什么是快乐的秘诀？「不要和愚者争论。」大师，我完全不同意这就是秘诀。「是的，你是对的。」",
-    "tags":["philosophy"]
+    "content":"没有才能的人越是积极，就越是添麻烦。",
+    "author":"艾尔埃尔夫",
+    "from":"革命机valvrave"
   }
 ]
